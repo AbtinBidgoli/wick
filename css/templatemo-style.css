@@ -15,7 +15,7 @@ body {
 }
 
 a, button {
-	transition: all 0.3s ease;
+	transition: all 0.8s ease;
 	color: #FFFFFF;
 }
 
@@ -100,7 +100,7 @@ p {
 	color: #FFFFFF;
 }
 .tm-btn-subscribe {
-	background-color: #006699;
+	background-color: #000000;
 	border-radius: .5rem;
     border-color: white;
 	padding: 0.75rem 1.6rem;
@@ -110,7 +110,7 @@ p {
 }
 
 .tm-btn-subscribe:hover {
-    background-color: #055278;
+    background-color: #FFB251;
 }
 
 .tm-social-icons-container {
@@ -124,6 +124,10 @@ p {
     width: 50px;
     height: 50px;
     text-align: center;
+}
+
+.tm-social-link:hover {
+    background-color: #FFB251;
 }
 
 .fa {
