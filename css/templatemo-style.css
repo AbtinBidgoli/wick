@@ -137,7 +137,7 @@ p {
 .footer-link {
     margin: 20px;
 	font-size: 18px;
-    position: absolute;
+    position: sticky;
     bottom: 0;
     left: 0;
     color: white;
